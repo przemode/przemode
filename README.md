@@ -2,16 +2,16 @@
 
 ### TECHNOLOGIES 
 
-![](https://img.shields.io/badge/Tech-JavaScript-8b6433)
-![](https://img.shields.io/badge/Tech-React-8b6433)
-![](https://img.shields.io/badge/Tech-React_Native-8b6433)
-![](https://img.shields.io/badge/Tech-CSS-8b6433)
-![](https://img.shields.io/badge/Tech-Sass-8b6433)
-![](https://img.shields.io/badge/Tech-HTML-8b6433)
-![](https://img.shields.io/badge/Tech-node-8b6433)
-![](https://img.shields.io/badge/Tech-Redux-8b6433)
-![](https://img.shields.io/badge/Tech-PHP-8b6433)
-![](https://img.shields.io/badge/Tech-ESLint-8b6433)
+![](https://img.shields.io/badge/_-JavaScript-8b6433)
+![](https://img.shields.io/badge/_-React-8b6433)
+![](https://img.shields.io/badge/_-React_Native-8b6433)
+![](https://img.shields.io/badge/_-CSS-8b6433)
+![](https://img.shields.io/badge/_-Sass-8b6433)
+![](https://img.shields.io/badge/_-HTML-8b6433)
+![](https://img.shields.io/badge/_-node-8b6433)
+![](https://img.shields.io/badge/_-Redux-8b6433)
+![](https://img.shields.io/badge/_-PHP-8b6433)
+![](https://img.shields.io/badge/_-ESLint-8b6433)
 
 ### TOOLS 💻
 ![](https://img.shields.io/badge/OS-Windows-577fae)
