@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tech-PHP-828cb4)
 ![](https://img.shields.io/badge/Tech-git-e44c30)
 ![](https://img.shields.io/badge/Tech-npm-c13534)
+![](https://img.shields.io/badge/Tech-VS%20Code-327fb1)
+![](https://img.shields.io/badge/Tech-ESLint-472fb9)
 
