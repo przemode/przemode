@@ -3,9 +3,7 @@
 ### TECHNOLOGIES 
 
 ![](https://img.shields.io/badge/Tech-JavaScript-ead41c)
- 
 ![](https://img.shields.io/badge/Tech-React-5ed3f3)
- 
 ![](https://img.shields.io/badge/Tech-React_Native-5ed3f3)
 ![](https://img.shields.io/badge/Tech-CSS-2b94c7)
 ![](https://img.shields.io/badge/Tech-Sass-c45f92)
@@ -21,3 +19,5 @@
 ![](https://img.shields.io/badge/Tool-git-e44c30)
 ![](https://img.shields.io/badge/Tool-npm-c13534)
 ![](https://img.shields.io/badge/Tool-VS%20Code-327fb1)
+![](https://img.shields.io/badge/Tool-Android_Studio-80b04e)
+![](https://img.shields.io/badge/Tool-NVM-f4dd4b)
