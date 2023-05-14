@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://img.shields.io/badge/OS-Windows-577fae)
-![](https://img.shields.io/badge/Tech-React-577fae)
-![](https://img.shields.io/badge/Tech-ReactNative-577fae)
+![](https://img.shields.io/badge/Tech-React-5ed3f3)
+![](https://img.shields.io/badge/Tech-React_Native-5ed3f3)
