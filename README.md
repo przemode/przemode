@@ -1,5 +1,5 @@
 ![banner](https://raw.githubusercontent.com/przemode/przemode/main/git%20banner.png)
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+
 
 ### TECHNOLOGIES 
 
