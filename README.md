@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 -->
 
 ![](https://img.shields.io/badge/OS-Windows-577fae)
-![](https://img.shields.io/badge/Tech-React-5ed3f3)
-![](https://img.shields.io/badge/Tech-React_Native-5ed3f3)
-![](https://img.shields.io/badge/Tech-CSS-2b94c7)
-![](https://img.shields.io/badge/Tech-Sass-c45f92)
-![](https://img.shields.io/badge/Tech-HTML-e15f2e)
-![](https://img.shields.io/badge/Tech-node-84bb00)
+![](https://img.shields.io/badge/tech-React-5ed3f3)
+![](https://img.shields.io/badge/tech-React_Native-5ed3f3)
+![](https://img.shields.io/badge/tech-CSS-2b94c7)
+![](https://img.shields.io/badge/tech-Sass-c45f92)
+![](https://img.shields.io/badge/tech-HTML-e15f2e)
+![](https://img.shields.io/badge/tech-node-84bb00)
