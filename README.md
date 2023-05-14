@@ -1,8 +1,7 @@
 ![banner](https://raw.githubusercontent.com/przemode/przemode/main/git%20banner.png)
 
-### TECHNOLOGIES AND TOOLS 💻
+### TECHNOLOGIES 
 
-![](https://img.shields.io/badge/OS-Windows-577fae)
 ![](https://img.shields.io/badge/Tech-JavaScript-ead41c)
 ![](https://img.shields.io/badge/Tech-React-5ed3f3)
 ![](https://img.shields.io/badge/Tech-React_Native-5ed3f3)
@@ -12,8 +11,10 @@
 ![](https://img.shields.io/badge/Tech-node-84bb00)
 ![](https://img.shields.io/badge/Tech-Redux-7c42bd)
 ![](https://img.shields.io/badge/Tech-PHP-828cb4)
-![](https://img.shields.io/badge/Tech-git-e44c30)
-![](https://img.shields.io/badge/Tech-npm-c13534)
-![](https://img.shields.io/badge/Tech-VS%20Code-327fb1)
 ![](https://img.shields.io/badge/Tech-ESLint-472fb9)
 
+### TOOLS 💻
+![](https://img.shields.io/badge/OS-Windows-577fae)
+![](https://img.shields.io/badge/Tool-git-e44c30)
+![](https://img.shields.io/badge/Tool-npm-c13534)
+![](https://img.shields.io/badge/Tool-VS%20Code-327fb1)
