@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tech-CSS-2b94c7)
 ![](https://img.shields.io/badge/Tech-Sass-c45f92)
 ![](https://img.shields.io/badge/Tech-HTML-e15f2e)
+![](https://img.shields.io/badge/Tech-node-84bb00)
