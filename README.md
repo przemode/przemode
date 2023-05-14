@@ -15,6 +15,7 @@
 
 ### TOOLS 💻
 ![](https://img.shields.io/badge/OS-Windows-577fae)
+![](https://img.shields.io/badge/OS-Linux-ebb510)
 ![](https://img.shields.io/badge/Tool-git-e44c30)
 ![](https://img.shields.io/badge/Tool-npm-c13534)
 ![](https://img.shields.io/badge/Tool-VS%20Code-327fb1)
