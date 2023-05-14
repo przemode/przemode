@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/OS-Windows-577fae)
 ![](https://img.shields.io/badge/Tech-React-577fae)
-![](https://img.shields.io/badge/Tech-React Native-577fae)
+![](https://img.shields.io/badge/Tech-ReactNative-577fae)
