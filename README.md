@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tech-node-84bb00)
 ![](https://img.shields.io/badge/Tech-Redux-7c42bd)
 ![](https://img.shields.io/badge/Tech-PHP-828cb4)
+![](https://img.shields.io/badge/Tech-git-e44c30)
+![](https://img.shields.io/badge/Tech-npm-c13534)
 
