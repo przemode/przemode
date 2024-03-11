@@ -1,8 +1,7 @@
-![banner](https://raw.githubusercontent.com/przemode/przemode/main/git%20banner.png)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Przemysław Depta and I'm a software developer engineer. I'm from Poland, currently working at NGCode.
+My name is Przemysław Depta and I'm a software developer engineer.
 
 ### TECHNOLOGIES 
 
